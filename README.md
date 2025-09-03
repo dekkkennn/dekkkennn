@@ -4,7 +4,7 @@
 
 #
 
--🔭 I’m currently working on becoming a **Web Developer**
+- 🔭 I’m currently working on becoming a **Web Developer**
 - 🌱 I’m currently learning **ReacJs and Fullstack Web development**
 
 
@@ -22,8 +22,12 @@
 
 #
 
+### 🧰 Languages and Tools
+#
+
 <div align="center">
 <details open>
+
 <summary><b>😎 Frontend</b></summary>
 <br>
   
@@ -58,12 +62,15 @@
 </div>
 
 
-
+#
 <!---<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dekkkennn&show_icons=true&locale=en" alt="dekkkennn" /></p>-->
-<h2>👨‍💻 More About Me on GitHub</h2>
+### ⚡Github Public Stats
+
+#
+<br>
 <div align="center">
   
-![dekkkennn's GitHub stats](https://github-readme-stats.vercel.app/api?username=dekkkennn&show_icons=true&theme=dracula) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dekkkennn&layout=compact)
+![dekkkennn's GitHub stats](https://github-readme-stats.vercel.app/api?username=dekkkennn&show_icons=true&theme=dracula)  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dekkkennn&layout=compact)
 
 </div>
 
